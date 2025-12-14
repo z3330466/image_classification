@@ -1,0 +1,2 @@
+filename	path	split	gender_label	ethnicity	age_group	glasses
+image_0001.jpg	train/male/image_001.jpg	train	male	caucasian	50s	FALSE

@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "male_0001.jpg",
+    "path": "/Users/hive/Code/data_science_projects/image_classification/train/male/male_0001.jpg",
+    "split": "train",
+    "gender_label": "male",
+    "attributes": {
+      "ethnicity": "caucasian",
+      "age_group": "50s",
+      "glasses": false
+    },
+    "processing_status": "SUCCESS"
+  }
+]
